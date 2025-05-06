@@ -2,18 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Ruhi Soni
+    #- name: Date of Birth
+    #  value: 14th March 1879
     - name: Languages
-      value: English, German
+      value: English, Hindi, Dutch
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: MSc Bioinformatics and Systems Biology
+      institution: Vrije Universiteit Amsterdam, The Netherlands
+      year: 2025
       description:
         - Description 1.
         - Description 2.
@@ -21,9 +21,15 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: BSc Molecular Biology and Biotechnology
+      institution: University of Hong Kong, Hong Kong S.A.R.
+      year: 2021
+      description:
+        - Description 1.
+        - Description 2.
+    - title: Minor: Journalism and Media Studies
+      institution: University of Hong Kong, Hong Kong S.A.R.
+      year: 2021
       description:
         - Description 1.
         - Description 2.
@@ -31,9 +37,9 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Bioinformatics Research Intern
+      institution: Cyclomics, Utrecht, The Netherlands
+      year: September 2024 - July 2025
       description:
         - Description 1.
         - Description 2.
@@ -61,12 +67,12 @@
       institution: University of Zurich, Zurich, Switzerland
       year: 1909 - 1911
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+# - title: Open Source Projects
+#   type: time_table
+#   contents:
+#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+#       year: 2015-now
+#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 - title: Honors and Awards
   type: time_table
