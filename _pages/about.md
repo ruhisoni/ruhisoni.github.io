@@ -23,8 +23,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Text edit 1 and 2.
+Hi there! I'm Ruhi, a joint MSc student in Bioinformatics and Systems Biology at Vrije Univeriteit Amsterdam and the University of Amsterdam.
 
-Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I'm currently wrapping up a 10-month industrial thesis project investigating whether end motifs from circulating DNA in the blood can help estimate tumor fraction in cancer patients. My research interests are broad, spanning genomics, (spatial) transcriptomics, and bulk- and single-cell RNA sequencing analysis, with applications in oncology, immunology, neurology, and beyond. Basically, if it involves untangling messy biological data to find meaningful patterns, I'm in.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Outside of science, I enjoy bird-watching, playing Stardew Valley, and exploring quirky corners in this country I've come to call home. :)
