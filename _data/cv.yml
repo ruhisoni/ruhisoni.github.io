@@ -27,12 +27,6 @@
       description:
         - Description 1.
         - Description 2.
-    - title: Minor: Journalism and Media Studies
-      institution: University of Hong Kong, Hong Kong S.A.R.
-      year: 2021
-      description:
-        - Description 1.
-        - Description 2.
 
 - title: Experience
   type: time_table
