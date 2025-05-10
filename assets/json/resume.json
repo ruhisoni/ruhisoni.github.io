@@ -1,24 +1,16 @@
 {
   "basics": {
     "name": "Ruhi Soni",
-    "email": "r.soni@student.vu.nl",
-    "location": "Amsterdam, The Netherlands",
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "ruhithere",
-        "url": "https://twitter.com/ruhithere"
-      }
+    "email": "r (dot) soni (at) student (dot) vu (dot) nl",
     ],
-    "summary": "Bioinformatician-in-training with a past in molecular biology as well as scientific storytelling."
+    "summary": "Bioinformatician-in-training with a background in molecular biology and a passion for scientific storytelling."
   },
   
-  "research experience": [
+  "work": [
     {
       "name": "Cyclomics",
       "location": "The Netherlands",
       "position": "Bioinformatics Intern",
-      "url": "https://shop.cyclomics.com/",
       "startDate": "2024-09-05",
       "endDate": "2025-07-21",
       "summary": "Investigating end motifs of cell-free DNA as biomarkers in estimating tumor fraction as part of MSc industrial thesis project",
@@ -28,7 +20,6 @@
       "name": "Genomiki Solutions",
       "location": "India (remote)",
       "position": "Bioinformatics Student Intern",
-      "url": "https://genomiki.com/",
       "startDate": "2020-10-01",
       "endDate": "2020-12-31",
       "summary": "Variant calling analysis of COVID-19 genomes from five countries as part of BSc capstone project",
@@ -37,10 +28,9 @@
     {
       "name": "Imperial College London",
       "location": "United Kingdom",
-      "position": "Bioinformatics Intern",
-      "url": "https://shop.cyclomics.com/",
-      "startDate": "2024-09-05",
-      "endDate": "2025-07-21",
+      "position": "Summer School Research Student",
+      "startDate": "2018-07-01",
+      "endDate": "2018-08-31",
       "summary": "Comparison of methods to improve CD3+/CD20+ co-expression in T-cells in vaccine production",
       "skills": ["immunology", "flow cytometry", "ELISA", "biostatistical analysis"]
     }
@@ -60,7 +50,7 @@
       "institution": "University of Hong Kong (HKU)",
       "location": "Hong Kong S.A.R.",
       "studyType": "BSc Molecular Biology and Biotechnology",
-      "area": "Minor: Journalism and Media Studies",
+      "note": "Minor: Journalism and Media Studies",
       "startDate": "2016-09-01",
       "endDate": "2021-01-31",
       "score": "3.58 (First Division Honours)",
@@ -73,7 +63,6 @@
       "organization": "BioSB Conference 2025",
       "location": "The Netherlands",
       "position": "Volunteer (various roles)",
-      "url": "https://www.aanmelder.nl/biosb2025",
       "startDate": "2025-05-19",
       "endDate": "2025-05-21"
     }
@@ -102,15 +91,13 @@
       "name": "Python for Everybody (5-part specialization)",
       "date": "2021-03-12",
       "issuer": "University of Michigan",
-      "url": "https://www.coursera.org/specializations/python?",
-      "icon": "fa-solid fa-clipboard-check"
+      "url": "https://www.coursera.org/specializations/python"
     },
     {
       "name": "Genomic Data Science (6-part specialization)",
       "date": "2023-05-02",
       "issuer": "Johns Hopkins University",
-      "url": "https://www.coursera.org/specializations/genomic-data-science",
-      "icon": "fa-solid fa-clipboard-check"
+      "url": "https://www.coursera.org/specializations/genomic-data-science"
     }
   ],
   
@@ -130,8 +117,7 @@
     }
   ],
 
-  "Technical Skills": [
-    
+  "skills": [
     {
       "name": "Programming & Scripting",
       "keywords": ["Python", "R", "Bash", "Unix/Linux CLI"]
@@ -167,12 +153,12 @@
     },
     {
       "language": "French",
-      "fluency": "Cleared A2 exams",
+      "fluency": "Completed A2 exams",
       "icon": ""
     },
     {
       "language": "Dutch",
-      "fluency": "A1",
+      "fluency": "Completing A1",
       "icon": ""
     },
     {
