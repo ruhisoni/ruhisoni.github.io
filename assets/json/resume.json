@@ -12,7 +12,7 @@
       "startDate": "2024-09-05",
       "endDate": "2025-07-21",
       "summary": "Investigating end motifs of cell-free DNA as biomarkers in estimating tumor fraction as part of MSc industrial thesis project",
-      "skills": [
+      "keywords": [
         "Python",
         "sklearn",
         "NMF",
@@ -29,7 +29,7 @@
       "startDate": "2020-10-01",
       "endDate": "2020-12-31",
       "summary": "Variant calling analysis of COVID-19 genomes from five countries as part of BSc capstone project",
-      "skills": [
+      "keywords": [
         "NCBI SRA",
         "BWA",
         "SAMtools",
@@ -45,7 +45,7 @@
       "startDate": "2018-07-01",
       "endDate": "2018-08-31",
       "summary": "Comparison of methods to improve CD3+/CD20+ co-expression in T-cells in vaccine production",
-      "skills": [
+      "keywords": [
         "immunology",
         "flow cytometry",
         "ELISA",
