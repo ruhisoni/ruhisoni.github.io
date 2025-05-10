@@ -2,7 +2,6 @@
   "basics": {
     "name": "Ruhi Soni",
     "email": "r.soni@student.vu.nl",
-    "summary": "Bioinformatician-in-training with a past in molecular biology as well as scientific storytelling.",
     "location": "Amsterdam, The Netherlands",
     "profiles": [
       {
@@ -10,13 +9,14 @@
         "username": "ruhithere",
         "url": "https://twitter.com/ruhithere"
       }
-    ]
+    ],
+    "summary": "Bioinformatician-in-training with a past in molecular biology as well as scientific storytelling."
   },
   
   "research experience": [
     {
       "name": "Cyclomics",
-      "location": "The Netherlands"
+      "location": "The Netherlands",
       "position": "Bioinformatics Intern",
       "url": "https://shop.cyclomics.com/",
       "startDate": "2024-09-05",
@@ -25,7 +25,7 @@
       "skills": ["Python", "sklearn", "NMF", "long-read sequencing analysis", "Oxford Nanopore", "cfDNA and ctDNA", "liquid biopsies"]
     },
     {
-      "name": "Genomiki Solutions"
+      "name": "Genomiki Solutions",
       "location": "India (remote)",
       "position": "Bioinformatics Student Intern",
       "url": "https://genomiki.com/",
