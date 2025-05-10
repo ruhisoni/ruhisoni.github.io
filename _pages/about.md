@@ -2,6 +2,7 @@
 layout: about
 title: about
 permalink: /
+subtitle: Aspiring bioinformatician | Another victim of the pipette-to-Python pipeline
 
 profile:
   align: right
