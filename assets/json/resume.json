@@ -12,6 +12,7 @@
       }
     ]
   },
+  
   "research experience": [
     {
       "name": "Cyclomics, Utrecht, The Netherlands",
@@ -21,7 +22,7 @@
       "endDate": "2025-07-21",
       "summary": "Investigating end motifs of cell-free DNA as biomarkers in estimating tumor fraction as part of MSc industrial thesis project",
       "skills": ["Python", "sklearn", "NMF", "long-read sequencing analysis", "Oxford Nanopore", "cfDNA and ctDNA", "liquid biopsies"]
-    }
+    },
     {
       "name": "Genomiki Solutions, Noida, India",
       "position": "Bioinformatics Student Intern",
@@ -30,6 +31,7 @@
       "endDate": "2020-12-31",
       "summary": "Variant calling analysis of COVID-19 genomes from five countries as part of BSc capstone project"
       "skills": ["NCBI SRA", "BWA", "SAMtools", "BCFtools", "SnpEff", "VEP"]
+    },
     {
       "name": "Imperial College London, United Kingdom",
       "position": "Bioinformatics Intern",
@@ -40,6 +42,7 @@
       "skills": ["immunology", "flow cytometry", "ELISA", "biostatistical analysis"]
     }
   ],
+  
   "education": [
     {
       "institution": "Vrije Universiteit Amsterdam & University of Amsterdam (VU & UvA)",
@@ -49,7 +52,7 @@
       "endDate": "2025-08-31",
       "score": "8.0 (predicted)",
       "courses": ["Algorithms in Sequence Analysis", "Biosystems Data Analysis", "Scientific Machine Learning", "Structural Bioinformatics", "Computational Biology", "Statistics with R", "Bioinformatics for Translational Medicine", "Quantitative Single-cell Biology"]
-    }
+    },
     {
       "institution": "University of Hong Kong (HKU)",
       "location": "Hong Kong S.A.R.",
@@ -61,6 +64,7 @@
       "courses": ["Biostatistics", "Principles of Biochemistry", "Healthcare Biotechnology", "Microbial Biology and Biotechnology", "Plant and Food Biotechnology", "Cell Biology and Technology", "'Omics Technologies and Resources", "Genetics", "Immunology"]
     }
   ],
+  
   "volunteer": [
     {
       "organization": "BioSB Conference 2025",
@@ -77,18 +81,19 @@
       "title": "Mitacs Globalink Research Internship",
       "date": "2020-06",
       "awarder": "Mitacs Canada",
-    }
+    },
     {
       "title": "HKSAR Government Reaching Out Award",
       "date": "2017-06",
       "awarder": "Education Bureau of the Hong Kong S.A.R. Government",
-    }
+    },
     {
       "title": "Centenary Scholarship Fund",
       "date": "2018-06",
       "awarder": "The University of Hong Kong (HKU)",
     }
   ],
+  
   "certificates": [
     {
       "name": "Python for Everybody (5-part specialization)",
@@ -103,8 +108,9 @@
       "issuer": "Johns Hopkins University",
       "url": "https://www.coursera.org/specializations/genomic-data-science",
       "icon": "fa-solid fa-clipboard-check"
-    },
+    }
   ],
+  
   "publications": [
     {
       "name": "Examining the Bioethics of India's COVID-19 Response Through Covaxin's Clinical Trials",
@@ -117,8 +123,9 @@
       "releaseDate": "2020-01-29",
       "url": "https://www.asiasentinel.com/p/the-15-year-old-who-taught-me-about",
       "highlights": ["Received honorary mention from Project SIREN Award for Journalists 2022 by the Centre for Mental Health Law & Policy, India."]
-    },
+    }
   ],
+  
   "skills": [
     {
       "name": "Physics",
@@ -134,6 +141,7 @@
       ]
     }
   ],
+  
   "languages": [
     {
       "language": "English",
@@ -144,28 +152,29 @@
       "language": "Hindi",
       "fluency": "Native speaker and writer",
       "icon": ""
-    }
+    },
     {
       "language": "French",
       "fluency": "Cleared A2 exams",
       "icon": ""
-    }
+    },
     {
       "language": "Dutch",
       "fluency": "A1",
       "icon": ""
-    }
+    },
     {
       "language": "Urdu",
       "fluency": "Native speaker, beginner writer",
       "icon": ""
-    }
+    },
     {
       "language": "Punjabi",
       "fluency": "Native speaker, beginner writer",
       "icon": ""
     }
   ],
+  
   "interests": [
     {
       "name": "Physics",
