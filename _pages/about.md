@@ -27,4 +27,4 @@ Hi there! I'm Ruhi, a joint MSc student in Bioinformatics and Systems Biology at
 
 I'm currently wrapping up a 10-month industrial thesis project investigating whether end motifs from circulating DNA in the blood can help estimate tumor fraction in cancer patients. My research interests are broad, spanning genomics, (spatial) transcriptomics, and bulk- and single-cell RNA sequencing analysis, with applications in oncology, immunology, neurology, and beyond. Basically, if it involves untangling messy biological data to find meaningful patterns, I'm in.
 
-Outside of science, I enjoy bird-watching, playing Stardew Valley, and exploring quirky corners in this country I've come to call home. :)
+Outside of science, I enjoy bird-watching, playing Stardew Valley, and exploring quirky corners in this country which I've come to call home. :)
