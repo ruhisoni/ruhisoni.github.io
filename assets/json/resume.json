@@ -131,32 +131,28 @@
   ],
 
   "Technical Skills": [
-  {
-    "name": "Programming & Scripting",
-    "keywords": ["Python", "R", "Bash", "Unix/Linux CLI"]
-  },
-  {
-    "name": "Data Analysis & Visualization",
-    "keywords": ["pandas", "NumPy", "matplotlib", "ggplot2", "scikit-learn"]
-  },
-  {
-    "name": "Bioinformatics Tools",
-    "keywords": [
-      "fastp", "Trimmomatic", "BWA", "minimap2",
-      "samtools", "bcftools", "SnpEff", "Snakemake", "Nextflow"
-    ]
-  },
-  {
-    "name": "Reproducibility & Version Control",
-    "keywords": ["Git", "GitHub", "Jupyter", "Quarto", "LaTeX", "Conda", "Docker", "SSH"]
-  },
-  {
-    "name": "Productivity & Collaboration",
-    "keywords": [
-      "Microsoft Office", "Google Workspace", "Slack", "Discord"
-    ]
-  }
-],
+    
+    {
+      "name": "Programming & Scripting",
+      "keywords": ["Python", "R", "Bash", "Unix/Linux CLI"]
+    },
+    {
+      "name": "Data Analysis & Visualization",
+      "keywords": ["pandas", "NumPy", "matplotlib", "ggplot2", "scikit-learn"]
+    },
+    {
+      "name": "Bioinformatics Tools",
+      "keywords": ["fastp", "Trimmomatic", "BWA", "minimap2", "samtools", "bcftools", "SnpEff", "Snakemake", "Nextflow"]
+    },
+    {
+      "name": "Reproducibility & Version Control",
+      "keywords": ["Git", "GitHub", "Jupyter", "Quarto", "LaTeX", "Conda", "Docker", "SSH"]
+    },
+    {
+      "name": "Productivity & Collaboration",
+      "keywords": ["Microsoft Office", "Google Workspace", "Slack", "Discord"]
+    }
+  ],
   
   "languages": [
     {
