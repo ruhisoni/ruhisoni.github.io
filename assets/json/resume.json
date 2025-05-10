@@ -4,7 +4,6 @@
     "email": "r (dot) soni (at) student (dot) vu (dot) nl",
     "summary": "Bioinformatician-in-training with a background in molecular biology and a passion for scientific storytelling."
   },
-  
   "work": [
     {
       "name": "Cyclomics",
@@ -13,7 +12,15 @@
       "startDate": "2024-09-05",
       "endDate": "2025-07-21",
       "summary": "Investigating end motifs of cell-free DNA as biomarkers in estimating tumor fraction as part of MSc industrial thesis project",
-      "skills": ["Python", "sklearn", "NMF", "long-read sequencing analysis", "Oxford Nanopore", "cfDNA and ctDNA", "liquid biopsies"]
+      "skills": [
+        "Python",
+        "sklearn",
+        "NMF",
+        "long-read sequencing analysis",
+        "Oxford Nanopore",
+        "cfDNA and ctDNA",
+        "liquid biopsies"
+      ]
     },
     {
       "name": "Genomiki Solutions",
@@ -22,7 +29,14 @@
       "startDate": "2020-10-01",
       "endDate": "2020-12-31",
       "summary": "Variant calling analysis of COVID-19 genomes from five countries as part of BSc capstone project",
-      "skills": ["NCBI SRA", "BWA", "SAMtools", "BCFtools", "SnpEff", "VEP"]
+      "skills": [
+        "NCBI SRA",
+        "BWA",
+        "SAMtools",
+        "BCFtools",
+        "SnpEff",
+        "VEP"
+      ]
     },
     {
       "name": "Imperial College London",
@@ -31,10 +45,14 @@
       "startDate": "2018-07-01",
       "endDate": "2018-08-31",
       "summary": "Comparison of methods to improve CD3+/CD20+ co-expression in T-cells in vaccine production",
-      "skills": ["immunology", "flow cytometry", "ELISA", "biostatistical analysis"]
+      "skills": [
+        "immunology",
+        "flow cytometry",
+        "ELISA",
+        "biostatistical analysis"
+      ]
     }
   ],
-  
   "education": [
     {
       "institution": "Vrije Universiteit Amsterdam & University of Amsterdam (VU & UvA)",
@@ -43,7 +61,16 @@
       "startDate": "2023-09-01",
       "endDate": "2025-08-31",
       "score": "8.0 (predicted)",
-      "courses": ["Algorithms in Sequence Analysis", "Biosystems Data Analysis", "Scientific Machine Learning", "Structural Bioinformatics", "Computational Biology", "Statistics with R", "Bioinformatics for Translational Medicine", "Quantitative Single-cell Biology"]
+      "courses": [
+        "Algorithms in Sequence Analysis",
+        "Biosystems Data Analysis",
+        "Scientific Machine Learning",
+        "Structural Bioinformatics",
+        "Computational Biology",
+        "Statistics with R",
+        "Bioinformatics for Translational Medicine",
+        "Quantitative Single-cell Biology"
+      ]
     },
     {
       "institution": "University of Hong Kong (HKU)",
@@ -53,10 +80,19 @@
       "startDate": "2016-09-01",
       "endDate": "2021-01-31",
       "score": "3.58 (First Division Honours)",
-      "courses": ["Biostatistics", "Principles of Biochemistry", "Healthcare Biotechnology", "Microbial Biology and Biotechnology", "Plant and Food Biotechnology", "Cell Biology and Technology", "'Omics Technologies and Resources", "Genetics", "Immunology"]
+      "courses": [
+        "Biostatistics",
+        "Principles of Biochemistry",
+        "Healthcare Biotechnology",
+        "Microbial Biology and Biotechnology",
+        "Plant and Food Biotechnology",
+        "Cell Biology and Technology",
+        "'Omics Technologies and Resources",
+        "Genetics",
+        "Immunology"
+      ]
     }
   ],
-  
   "volunteer": [
     {
       "organization": "BioSB Conference 2025",
@@ -66,7 +102,6 @@
       "endDate": "2025-05-21"
     }
   ],
-
   "awards": [
     {
       "title": "Mitacs Globalink Research Internship",
@@ -84,7 +119,6 @@
       "awarder": "The University of Hong Kong (HKU)"
     }
   ],
-  
   "certificates": [
     {
       "name": "Python for Everybody (5-part specialization)",
@@ -99,7 +133,6 @@
       "url": "https://www.coursera.org/specializations/genomic-data-science"
     }
   ],
-  
   "publications": [
     {
       "name": "Examining the Bioethics of India's COVID-19 Response Through Covaxin's Clinical Trials",
@@ -112,33 +145,68 @@
       "publisher": "Asian Sentinel",
       "releaseDate": "2020-01-29",
       "url": "https://www.asiasentinel.com/p/the-15-year-old-who-taught-me-about",
-      "highlights": ["Received honorary mention from Project SIREN Award for Journalists 2022 by the Centre for Mental Health Law & Policy, India."]
+      "highlights": [
+        "Received honorary mention from Project SIREN Award for Journalists 2022 by the Centre for Mental Health Law & Policy, India."
+      ]
     }
   ],
-
   "skills": [
     {
       "name": "Programming & Scripting",
-      "keywords": ["Python", "R", "Bash", "Unix/Linux CLI"]
+      "keywords": [
+        "Python",
+        "R",
+        "Bash",
+        "Unix/Linux CLI"
+      ]
     },
     {
       "name": "Data Analysis & Visualization",
-      "keywords": ["pandas", "NumPy", "matplotlib", "ggplot2", "scikit-learn"]
+      "keywords": [
+        "pandas",
+        "NumPy",
+        "matplotlib",
+        "ggplot2",
+        "scikit-learn"
+      ]
     },
     {
       "name": "Bioinformatics Tools",
-      "keywords": ["fastp", "Trimmomatic", "BWA", "minimap2", "samtools", "bcftools", "SnpEff", "Snakemake", "Nextflow"]
+      "keywords": [
+        "fastp",
+        "Trimmomatic",
+        "BWA",
+        "minimap2",
+        "samtools",
+        "bcftools",
+        "SnpEff",
+        "Snakemake",
+        "Nextflow"
+      ]
     },
     {
       "name": "Reproducibility & Version Control",
-      "keywords": ["Git", "GitHub", "Jupyter", "Quarto", "LaTeX", "Conda", "Docker", "SSH"]
+      "keywords": [
+        "Git",
+        "GitHub",
+        "Jupyter",
+        "Quarto",
+        "LaTeX",
+        "Conda",
+        "Docker",
+        "SSH"
+      ]
     },
     {
       "name": "Productivity & Collaboration",
-      "keywords": ["Microsoft Office", "Google Workspace", "Slack", "Discord"]
+      "keywords": [
+        "Microsoft Office",
+        "Google Workspace",
+        "Slack",
+        "Discord"
+      ]
     }
   ],
-  
   "languages": [
     {
       "language": "English",
