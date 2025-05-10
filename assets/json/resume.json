@@ -12,7 +12,7 @@
       "startDate": "2024-09-05",
       "endDate": "2025-07-21",
       "summary": "Investigating end motifs of cell-free DNA as biomarkers in estimating tumor fraction as part of MSc industrial thesis project",
-      "keywords": [
+      "highlights": [
         "Python",
         "sklearn",
         "NMF",
@@ -29,7 +29,7 @@
       "startDate": "2020-10-01",
       "endDate": "2020-12-31",
       "summary": "Variant calling analysis of COVID-19 genomes from five countries as part of BSc capstone project",
-      "keywords": [
+      "highlights": [
         "NCBI SRA",
         "BWA",
         "SAMtools",
@@ -45,7 +45,7 @@
       "startDate": "2018-07-01",
       "endDate": "2018-08-31",
       "summary": "Comparison of methods to improve CD3+/CD20+ co-expression in T-cells in vaccine production",
-      "keywords": [
+      "highlights": [
         "immunology",
         "flow cytometry",
         "ELISA",
@@ -153,6 +153,7 @@
   "skills": [
     {
       "name": "Programming & Scripting",
+      "level": "Master",
       "keywords": [
         "Python",
         "R",
@@ -162,6 +163,7 @@
     },
     {
       "name": "Data Analysis & Visualization",
+      "level": "Master",
       "keywords": [
         "pandas",
         "NumPy",
@@ -172,6 +174,7 @@
     },
     {
       "name": "Bioinformatics Tools",
+      "level": "Master",
       "keywords": [
         "fastp",
         "Trimmomatic",
@@ -186,6 +189,7 @@
     },
     {
       "name": "Reproducibility & Version Control",
+      "level": "Master",
       "keywords": [
         "Git",
         "GitHub",
@@ -199,6 +203,7 @@
     },
     {
       "name": "Productivity & Collaboration",
+      "level": "Master",
       "keywords": [
         "Microsoft Office",
         "Google Workspace",
@@ -210,32 +215,32 @@
   "languages": [
     {
       "language": "English",
-      "fluency": "Native speaker and writer",
+      "fluency": "Native",
       "icon": ""
     },
     {
       "language": "Hindi",
-      "fluency": "Native speaker and writer",
+      "fluency": "Native",
       "icon": ""
     },
     {
       "language": "French",
-      "fluency": "Completed A2 exams",
+      "fluency": "Intermediate",
       "icon": ""
     },
     {
       "language": "Dutch",
-      "fluency": "Completing A1",
+      "fluency": "Beginner",
       "icon": ""
     },
     {
       "language": "Urdu",
-      "fluency": "Native speaker, beginner writer",
+      "fluency": "Fluent",
       "icon": ""
     },
     {
       "language": "Punjabi",
-      "fluency": "Native speaker, beginner writer",
+      "fluency": "Intermediate",
       "icon": ""
     }
   ]
