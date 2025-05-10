@@ -29,7 +29,7 @@
       "url": "https://genomiki.com/",
       "startDate": "2020-10-01",
       "endDate": "2020-12-31",
-      "summary": "Variant calling analysis of COVID-19 genomes from five countries as part of BSc capstone project"
+      "summary": "Variant calling analysis of COVID-19 genomes from five countries as part of BSc capstone project",
       "skills": ["NCBI SRA", "BWA", "SAMtools", "BCFtools", "SnpEff", "VEP"]
     },
     {
@@ -72,7 +72,7 @@
       "position": "Volunteer (various roles)",
       "url": "https://www.aanmelder.nl/biosb2025",
       "startDate": "2025-05-19",
-      "endDate": "2025-05-21",
+      "endDate": "2025-05-21"
     }
   ],
 
@@ -80,17 +80,17 @@
     {
       "title": "Mitacs Globalink Research Internship",
       "date": "2020-06",
-      "awarder": "Mitacs Canada",
+      "awarder": "Mitacs Canada"
     },
     {
       "title": "HKSAR Government Reaching Out Award",
       "date": "2017-06",
-      "awarder": "Education Bureau of the Hong Kong S.A.R. Government",
+      "awarder": "Education Bureau of the Hong Kong S.A.R. Government"
     },
     {
       "title": "Centenary Scholarship Fund",
       "date": "2018-06",
-      "awarder": "The University of Hong Kong (HKU)",
+      "awarder": "The University of Hong Kong (HKU)"
     }
   ],
   
