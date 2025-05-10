@@ -14,25 +14,25 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Cyclomics, Utrecht, The Netherlands",
+      "position": "Bioinformatics Intern",
+      "url": "https://shop.cyclomics.com/",
+      "startDate": "2024-09-05",
+      "endDate": "2025-07-21",
+      "summary": "Industrial thesis project to investigate the potential of end motifs of cell-free DNA as biomarkers in estimating tumor fraction",
+      "highlights": ["cfDNA", "ctDNA", "end motifs", "liquid biopsy"]
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "BioSB Conference 2025",
+      "location": "Baarlo, The Netherlands",
+      "position": "Volunteer (various roles)",
+      "url": "https://www.aanmelder.nl/biosb2025",
+      "startDate": "2025-05-19",
+      "endDate": "2025-05-21",
+      "summary": "",
+      "highlights": [""]
     }
   ],
   "education": [
@@ -44,9 +44,7 @@
       "startDate": "2025-08",
       "endDate": "2023-09",
       "score": "8.0 (predicted)",
-      "courses": ["Algorithms in Sequence Analysis"],
-                 ["Biosystems Data Analysis"],
-                 ["Scientific Machine Learning"]
+      "courses": ["Algorithms in Sequence Analysis", "Biosystems Data Analysis", "Scientific Machine Learning"]
     }
   ],
   "awards": [
