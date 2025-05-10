@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Aspiring bioinformatician: another victim of the pipette-to-Python pipeline. 
 
 profile:
   align: right
