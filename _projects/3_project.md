@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Portfolio from my time as a journalist at Reuters
-description: a project that redirects to another website
-img: assets/img/7.jpg
+title: journalism portfolio
+description: redirect
+img: assets/img/reuters-logo-vector-11573946714klp8valxok-692609730.png
 redirect: https://muckrack.com/ruhi_soni/portfolio
 importance: 3
 category: science-writing
