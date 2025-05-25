@@ -426,9 +426,9 @@ ninja.data = [{
           description: "a project with a background image and giscus comments",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-portfolio-from-my-time-as-a-journalist-at-reuters",
-          title: 'Portfolio from my time as a journalist at Reuters',
-          description: "a project that redirects to another website",
+            },},{id: "projects-journalism-portfolio",
+          title: 'journalism portfolio',
+          description: "redirect",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-project-4",
