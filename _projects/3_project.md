@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 3 with very long name
+title: Portfolio from my time as a journalist at Reuters
 description: a project that redirects to another website
 img: assets/img/7.jpg
-redirect: https://unsplash.com
+redirect: https://muckrack.com/ruhi_soni/portfolio
 importance: 3
-category: work
+category: science-writing
 ---
 
 Every project has a beautiful feature showcase page.
