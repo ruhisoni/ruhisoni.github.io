@@ -1,7 +1,7 @@
 ---
 layout: page
-title: journalism portfolio
-description: redirect
+title: Journalism Portfolio
+description: Sectors covered: U.S. Health and Pharmaceuticals; North American Natural Resources
 img: assets/img/reuters-logo-vector-11573946714klp8valxok-692609730.png
 redirect: https://muckrack.com/ruhi_soni/portfolio
 importance: 3
