@@ -1,17 +1,18 @@
 {
   "basics": {
     "name": "Ruhi Soni",
-    "email": "r (dot) soni (at) student (dot) vu (dot) nl",
-    "summary": "Bioinformatician-in-training with a background in molecular biology and a passion for scientific storytelling."
+    "email": "r.soni@student.vu.nl",
+    "location": "Amsterdam, Netherlands"
+    "summary": "Bioinformatician-in-training with a background in molecular biology and a soft spot for scientific storytelling."
   },
   "work": [
     {
       "name": "Cyclomics",
-      "location": "The Netherlands",
+      "location": "Netherlands",
       "position": "Bioinformatics Intern",
       "startDate": "2024-09-05",
       "endDate": "2025-07-21",
-      "summary": "Investigating end motifs of cell-free DNA as biomarkers in estimating tumor fraction as part of MSc industrial thesis project",
+      "summary": "Investigating features of cell-free DNA (end motifs, fragment length, copy number alterations) as biomarkers in estimating tumor fraction",
       "highlights": [
         "Python",
         "sklearn",
@@ -19,7 +20,41 @@
         "long-read sequencing analysis",
         "Oxford Nanopore",
         "cfDNA and ctDNA",
-        "liquid biopsies"
+        "liquid biopsies",
+        "Git",
+        "CLI"
+      ]
+    },
+    {
+      "name": "VU Amsterdam",
+      "location": "Netherlands",
+      "position": "Teaching Assistant",
+      "startDate": "2024-09-01",
+      "endDate": "2025-02-01",
+      "summary": "Assisted students in understand core bioinformatics courses: Fundamentals of Bioinformatics, Algorithms in Sequence Analysis, Principles of Bioinformatics (minor)",
+      "highlights": [
+        "SNP impact prediction",
+        "ROC-AUCs",
+        "ClinVar",
+        "Hidden Markov Models",
+        "Expectation-Maximization",
+        "dynamic programming",
+        "Burrows-Wheeler Alignment"
+      ]
+    },
+    {
+      "name": "Reuters",
+      "location": "India",
+      "position": "Business Journalist, North American Natural Resources",
+      "startDate": "2021-05-01",
+      "endDate": "2023-02-28",
+      "summary": "Reported breaking news stories and trends in the U.S. and Canadian public companies",
+      "highlights": [
+        "digital journalism",
+        "interviewing techniques",
+        "good standard practices in writing, editing and publishing",
+        "Refinitiv Eikon",
+        "Datawrapper"
       ]
     },
     {
@@ -32,10 +67,24 @@
       "highlights": [
         "NCBI SRA",
         "BWA",
-        "SAMtools",
-        "BCFtools",
+        "samtools",
+        "bcftools",
         "SnpEff",
         "VEP"
+      ]
+    },
+    {
+      "name": "Reuters",
+      "location": "India",
+      "position": "Intern Journalist, U.S. Health and Pharmaceuticals",
+      "startDate": "2020-01-31",
+      "endDate": "2019-09-01",
+      "summary": "Reported on the U.S. pharmaceutical and biotech industry, FDA regulatory decisions, clinical trials, and public health developments",
+      "highlights": [
+        "digital journalism",
+        "written communication",
+        "interviewing techniques",
+        "good standard practices in editing and publishing",
       ]
     },
     {
@@ -56,7 +105,7 @@
   "education": [
     {
       "institution": "Vrije Universiteit Amsterdam & University of Amsterdam (VU & UvA)",
-      "location": "The Netherlands",
+      "location": "Netherlands",
       "studyType": "MSc Bioinformatics and Systems Biology",
       "startDate": "2023-09-01",
       "endDate": "2025-08-31",
@@ -96,10 +145,11 @@
   "volunteer": [
     {
       "organization": "BioSB Conference 2025",
-      "location": "The Netherlands",
+      "location": "Netherlands",
       "position": "Volunteer (various roles)",
       "startDate": "2025-05-19",
-      "endDate": "2025-05-21"
+      "endDate": "2025-05-21",
+      "summary": "Handled registration, audio-visual tools for speakers, selling F&B tokens, venue organization"
     }
   ],
   "awards": [
