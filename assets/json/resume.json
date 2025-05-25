@@ -16,9 +16,9 @@
       "highlights": [
         "Python",
         "sklearn",
-        "NMF",
+        "non-negative matrix factorization (NMF)",
         "long-read sequencing analysis",
-        "Oxford Nanopore",
+        "Oxford Nanopore Technologies",
         "cfDNA and ctDNA",
         "liquid biopsies",
         "Git",
@@ -64,14 +64,7 @@
       "startDate": "2020-10-01",
       "endDate": "2020-12-31",
       "summary": "Variant calling analysis of COVID-19 genomes from five countries as part of BSc capstone project",
-      "highlights": [
-        "NCBI SRA",
-        "BWA",
-        "samtools",
-        "bcftools",
-        "SnpEff",
-        "VEP"
-      ]
+      "highlights": ["NCBI SRA", "BWA", "samtools", "bcftools", "SnpEff", "VEP"]
     },
     {
       "name": "Reuters",
@@ -80,12 +73,7 @@
       "startDate": "2020-01-31",
       "endDate": "2019-09-01",
       "summary": "Reported on the U.S. pharmaceutical and biotech industry, FDA regulatory decisions, clinical trials, and public health developments",
-      "highlights": [
-        "digital journalism",
-        "written communication",
-        "interviewing techniques",
-        "good standard practices in editing and publishing",
-      ]
+      "highlights": ["digital journalism", "written communication", "interviewing techniques", "good standard practices in editing and publishing"]
     },
     {
       "name": "Imperial College London",
@@ -94,12 +82,7 @@
       "startDate": "2018-07-01",
       "endDate": "2018-08-31",
       "summary": "Comparison of methods to improve CD3+/CD20+ co-expression in T-cells in vaccine production",
-      "highlights": [
-        "immunology",
-        "flow cytometry",
-        "ELISA",
-        "biostatistical analysis"
-      ]
+      "highlights": ["immunology", "flow cytometry", "ELISA", "biostatistical analysis"]
     }
   ],
   "education": [
@@ -195,71 +178,34 @@
       "publisher": "Asian Sentinel",
       "releaseDate": "2020-01-29",
       "url": "https://www.asiasentinel.com/p/the-15-year-old-who-taught-me-about",
-      "highlights": [
-        "Received honorary mention from Project SIREN Award for Journalists 2022 by the Centre for Mental Health Law & Policy, India."
-      ]
+      "highlights": ["Received honorary mention from Project SIREN Award for Journalists 2022 by the Centre for Mental Health Law & Policy, India."]
     }
   ],
   "skills": [
     {
       "name": "Programming & Scripting",
       "level": "Master",
-      "keywords": [
-        "Python",
-        "R",
-        "Bash",
-        "Unix/Linux CLI"
-      ]
+      "keywords": ["Python", "R", "Bash", "Unix/Linux CLI"]
     },
     {
       "name": "Data Analysis & Visualization",
       "level": "Master",
-      "keywords": [
-        "pandas",
-        "NumPy",
-        "matplotlib",
-        "ggplot2",
-        "scikit-learn"
-      ]
+      "keywords": ["pandas", "NumPy", "matplotlib", "ggplot2", "scikit-learn"]
     },
     {
       "name": "Bioinformatics Tools",
       "level": "Master",
-      "keywords": [
-        "fastp",
-        "Trimmomatic",
-        "BWA",
-        "minimap2",
-        "samtools",
-        "bcftools",
-        "SnpEff",
-        "Snakemake",
-        "Nextflow"
-      ]
+      "keywords": ["fastp", "Trimmomatic", "BWA", "minimap2", "samtools", "bcftools", "SnpEff", "Snakemake", "Nextflow"]
     },
     {
       "name": "Reproducibility & Version Control",
       "level": "Master",
-      "keywords": [
-        "Git",
-        "GitHub",
-        "Jupyter",
-        "Quarto",
-        "LaTeX",
-        "Conda",
-        "Docker",
-        "SSH"
-      ]
+      "keywords": ["Git", "GitHub", "Jupyter", "Quarto", "LaTeX", "Conda", "Docker", "SSH"]
     },
     {
       "name": "Productivity & Collaboration",
       "level": "Master",
-      "keywords": [
-        "Microsoft Office",
-        "Google Workspace",
-        "Slack",
-        "Discord"
-      ]
+      "keywords": ["Microsoft Office", "Google Workspace", "Slack", "Discord"]
     }
   ],
   "languages": [
