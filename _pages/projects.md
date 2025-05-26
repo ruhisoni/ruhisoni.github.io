@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: What I've been up to for the past few years. (Under construction.)
+description: What I've been up to for the past few years. (Page under construction.)
 nav: true
 nav_order: 4
 display_categories: [science research, science writing, other]
