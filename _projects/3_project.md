@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: page
 title: Journalism Portfolio
 description: Sectors covered: U.S. Health and Pharmaceuticals; North American Natural Resources
 img: assets/img/reuters-logo-vector-11573946714klp8valxok-692609730.png
