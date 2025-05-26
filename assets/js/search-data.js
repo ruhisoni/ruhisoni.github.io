@@ -414,7 +414,7 @@ ninja.data = [{
               window.location.href = "/projects/2_project/";
             },},{id: "projects-journalism-portfolio",
           title: 'Journalism Portfolio',
-          description: "testing",
+          description: "health, pharma, natural resources",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-project-4",
